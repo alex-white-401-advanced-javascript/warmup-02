@@ -1,0 +1,25 @@
+{
+  "name": "warmup-02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-white-401-advanced-javascript/warmup-02.git"
+  },
+  "author": "Alexander White",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alex-white-401-advanced-javascript/warmup-02/issues"
+  },
+  "homepage": "https://github.com/alex-white-401-advanced-javascript/warmup-02#readme",
+  "dependencies": {
+    "eslint": "^5.15.3",
+    "express": "^4.16.4",
+    "jest": "^24.5.0",
+    "superagent": "^5.0.2"
+  }
+}
