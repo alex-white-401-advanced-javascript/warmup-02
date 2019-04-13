@@ -22,6 +22,7 @@ function fetchPeopleWithPromises(req, res) {
   })
 }
 
+
 async function fetchPeopleWithAsync() {
   let result = await fetchPeopleWithPromises();
   console.log(result);
